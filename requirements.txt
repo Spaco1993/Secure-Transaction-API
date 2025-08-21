@@ -3,5 +3,6 @@ uvicorn
 sqlalchemy
 pydantic
 passlib[bcrypt]
-pyjwt
+python-jose[cryptography]
 bleach
+email-validator
